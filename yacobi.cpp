@@ -5,7 +5,7 @@
 #include <omp.h>
 using namespace std;
 
-#define f(x,y)  (sin(x))
+//#define f(x,y)  (sin(x))
 #define g(x,y) 	(cos(x))
 
 int main()
